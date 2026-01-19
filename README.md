@@ -45,7 +45,7 @@ To keep the analysis focused and transparent, only columns directly relevant to 
 
 ---
 
-## Methodology (High-Level)
+## Methodology 
 
 - Replay reviews were identified using official replay/challenge flags.
 - **High-leverage plays** were defined using pre-committed criteria:
@@ -80,7 +80,7 @@ Together, these results suggest that replay review struggles most where decision
 
 Replay review is consistent, but consistency does not guarantee correctness.
 
-The system applies similar overturn standards regardless of how important a play is. As a result, when a mistake occurs in a high-impact moment—particularly on a turnover—it is more likely to stand, even though the consequences are much larger.
+The system applies similar overturn standards regardless of how important a play is. As a result, when a mistake occurs in a high-impact moment, particularly on a turnover, it is more likely to stand out, even though the consequences are much larger.
 
 This helps explain why certain calls feel uniquely frustrating to fans: not because they happen often, but because when they do happen, replay is least equipped to fix them.
 
